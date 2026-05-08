@@ -2,24 +2,25 @@
 
 ## Progress
 
-- Total solved: 2
+- Total solved: 3
 
 ### Step-wise progress
 
 | Step | Topic | Solved |
 | --- | --- | --- |
-| Step-03-Arrays | Arrays | 2 |
+| Step-03-Arrays | Arrays | 3 |
 
 ### Difficulty-wise counts
 
 | Difficulty | Solved |
 | --- | --- |
-| Easy | 2 |
+| Easy | 3 |
 
 ### Recent solves
 
 | Date | Problem | Topic | Difficulty | Platform |
 | --- | --- | --- | --- | --- |
+| 2026-05-08 | Rotate Array | Arrays | Easy | LeetCode |
 | 2026-05-08 | Remove Duplicates From Sorted Array | Arrays | Easy | LeetCode |
 | 2026-05-08 | Check If Array Is Sorted And Rotated | Arrays | Easy | LeetCode |
 
