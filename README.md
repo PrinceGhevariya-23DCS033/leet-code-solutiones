@@ -2,24 +2,25 @@
 
 ## Progress
 
-- Total solved: 4
+- Total solved: 5
 
 ### Step-wise progress
 
 | Step | Topic | Solved |
 | --- | --- | --- |
-| Step-03-Arrays | Arrays | 4 |
+| Step-03-Arrays | Arrays | 5 |
 
 ### Difficulty-wise counts
 
 | Difficulty | Solved |
 | --- | --- |
-| Easy | 4 |
+| Easy | 5 |
 
 ### Recent solves
 
 | Date | Problem | Topic | Difficulty | Platform |
 | --- | --- | --- | --- | --- |
+| 2026-05-09 | Missing Number | Arrays | Easy | LeetCode |
 | 2026-05-09 | Move Zeroes | Arrays | Easy | LeetCode |
 | 2026-05-08 | Rotate Array | Arrays | Easy | LeetCode |
 | 2026-05-08 | Remove Duplicates From Sorted Array | Arrays | Easy | LeetCode |

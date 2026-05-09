@@ -1,0 +1,5 @@
+# Intuition
+
+# Key Learning
+
+# Mistakes
