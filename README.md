@@ -2,24 +2,25 @@
 
 ## Progress
 
-- Total solved: 7
+- Total solved: 8
 
 ### Step-wise progress
 
 | Step | Topic | Solved |
 | --- | --- | --- |
-| Step-03-Arrays | Arrays | 7 |
+| Step-03-Arrays | Arrays | 8 |
 
 ### Difficulty-wise counts
 
 | Difficulty | Solved |
 | --- | --- |
-| Easy | 7 |
+| Easy | 8 |
 
 ### Recent solves
 
 | Date | Problem | Topic | Difficulty | Platform |
 | --- | --- | --- | --- | --- |
+| 2026-05-09 | Longest Subarray with Sum K | Arrays | Easy | GeeksforGeeks |
 | 2026-05-09 | Single Number | Arrays | Easy | LeetCode |
 | 2026-05-09 | Max Consecutive Ones | Arrays | Easy | LeetCode |
 | 2026-05-09 | Missing Number | Arrays | Easy | LeetCode |
